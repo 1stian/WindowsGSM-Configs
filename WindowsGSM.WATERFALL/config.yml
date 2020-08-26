@@ -45,6 +45,6 @@ groups:
   md_5:
   - admin
 connection_throttle: 4000
-stats: 0eddbb66-e69a-4e45-8db2-0ce78bc2e054
+stats: 
 connection_throttle_limit: 3
 log_pings: true
